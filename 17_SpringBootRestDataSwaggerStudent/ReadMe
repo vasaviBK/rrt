@@ -1,0 +1,3 @@
+To call SaveStudent method use this:
+	url: http://localhost:9090/student-api/students/
+	Method: POST
